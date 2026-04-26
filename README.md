@@ -1,5 +1,5 @@
 
-# 🐍 Glenda Teixeira | @6lenda
+# 🐍 Glenda Teixeira | @6lendaaa
 
 **Diretora de Linguagem Visual | Pesquisadora de Identidade | DJ** | Criadora do **Universo Serpentte** e do ecossistema **Arquivo 6lenda**.
 
