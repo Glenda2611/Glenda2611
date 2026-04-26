@@ -6,7 +6,7 @@
 ---
 
 ### 🧬 Sobre o Projeto
-O **Serpentte** é um universo artístico que utiliza biopunk, estética industrial e retrofuturismo Y2K para explorar a identidade e a memória de corpos travestis.
+A **Serpentte** é um universo artístico que utiliza biopunk, estética industrial e retrofuturismo Y2K para explorar a identidade e a memória de corpos travestis.
 
 - 🖥️ **Tecnologia:** Unity 6, Shaders e Hackeamento de Imagem.
 - 🌐 **Web3:** Gestão do token pessoal $6lendaaa e coleções no protocolo Zora.
