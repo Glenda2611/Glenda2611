@@ -19,6 +19,6 @@ Há 10 anos atuando na cena eletrônica de São Paulo, com foco em Hardtechno e 
 
 ### 📍 Conecte-se
 - [Zora Profile](https://zora.co/6lendaaa)
-- [Instagram](https://www.instagram.com/6lenda)
+- [Instagram](https://www.instagram.com/6lendaaa)
 
 *"A tecnologia dos prompts não como negação, mas como um lugar de ser persona a ser lembrada."*
